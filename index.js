@@ -8,8 +8,9 @@ class polygon {
     return  Eachside
   }
   get perimeter(){
+    let sun=0
     for(let i =0; i<arr.length; i++){
-      let sum+=arr[i]
+       sum+=arr[i]
     }
   }
 }
